@@ -34,3 +34,6 @@ API RESTful: Se possível, uma abordagem mais moderna seria desenvolver uma API 
 Protocolos Específicos de Dispositivos: Dependendo dos dispositivos de medição de chuva em questão, pode haver protocolos específicos de comunicação projetados para interagir com esses dispositivos de maneira segura e eficiente. Investigar e utilizar esses protocolos pode ser uma opção viável.
 
 Ao adotar uma abordagem mais segura e moderna para a comunicação com os dispositivos de medição de chuva, podemos mitigar os riscos de segurança e garantir uma integração mais eficiente e confiável com o sistema.
+
+#### Dicas:
+Na pasta dentro da Api/Contoller rodar no cmd o comando json-server --watch devices.json, para simular o arquivo jason em um servidor e api conectar com ele.
