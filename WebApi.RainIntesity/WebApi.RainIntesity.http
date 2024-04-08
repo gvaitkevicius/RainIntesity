@@ -1,0 +1,6 @@
+@WebApi.RainIntesity_HostAddress = http://localhost:5235
+
+GET {{WebApi.RainIntesity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,56 @@
+{
+  "devices": [
+    {
+      "Identifier": "1",
+      "Description": "Posição 1",
+      "Manufacturer": "PredictWeather",
+      "Url": "http://example.com/device1",
+      "Commands": [
+        {
+          "Operation": "get_rainfall_intensity",
+          "Description": "Obtém a intensidade da chuva",
+          "_command": {
+            "_command": "get_rainfall_intensity",
+            "Parameters": []
+          },
+          "Result": "Resultado esperado da operação get_rainfall_intensity"
+        }
+      ]
+    },
+    {
+      "Identifier": "2",
+      "Description": "Descrição do dispositivo 2",
+      "Manufacturer": "OutroFabricante",
+      "Url": "http://example.com/device2",
+      "Commands": [
+        {
+          "Operation": "get_rainfall_intensity",
+          "Description": "Obtém a intensidade da chuva",
+          "_command": {
+            "_command": "get_rainfall_intensity",
+            "Parameters": []
+          },
+          "Result": "Resultado esperado da operação get_rainfall_intensity"
+        }
+      ]
+    },
+    {
+      "Identifier": "3",
+      "Description": "Posição 3",
+      "Manufacturer": "PredictWeather",
+      "Url": "http://example.com/device1",
+      "Commands": [
+        {
+          "Operation": "get_rainfall_intensity",
+          "Description": "Obtém a intensidade da chuva",
+          "_command": {
+            "_command": "get_rainfall_intensity",
+            "Parameters": []
+          },
+          "Result": "Resultado esperado da operação get_rainfall_intensity"
+        }
+      ]
+    }
+
+  ]
+}
