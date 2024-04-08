@@ -13,7 +13,7 @@ Neste projeto, desenvolvi uma API utilizando o framework .NET Core para lidar co
 ## Sugestões e Melhorias
 Durante o desenvolvimento do projeto, embora não tenho tido tempo para implementar o Telnet, fiz pesquisas sobre sua utilização e identifiquei alguns desafios e limitações:
 
-# Problemas com o Telnet
+### Problemas com o Telnet
 O Telnet é uma ferramenta que permite a comunicação com outros dispositivos em uma rede por meio do protocolo Telnet. No entanto, ele apresenta algumas desvantagens significativas:
 
 Segurança: O Telnet envia dados, incluindo senhas, sem criptografia. Isso significa que as informações sensíveis podem ser interceptadas facilmente por invasores, representando um risco de segurança.
@@ -22,7 +22,7 @@ Autenticação: O Telnet não oferece um mecanismo robusto de autenticação. Is
 
 Gerenciamento de Sessões: O Telnet não possui recursos avançados de gerenciamento de sessões, o que pode dificultar a manutenção e o controle das conexões com os dispositivos.
 
-# Alternativas Recomendadas
+### Alternativas Recomendadas
 Considerando os problemas mencionados acima, recomendo a utilização de alternativas mais seguras e eficientes para comunicação com dispositivos de medição de chuva:
 
 SSH (Secure Shell): O SSH é uma alternativa mais segura ao Telnet, pois oferece criptografia de ponta a ponta para proteger os dados durante a comunicação. Além disso, possui recursos avançados de autenticação, como chaves públicas e privadas, garantindo uma camada adicional de segurança.
