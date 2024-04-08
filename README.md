@@ -1,6 +1,7 @@
 ## Uso de Interface Minimalista
 
 Optei por uma interface minimalista para a aplicação. Isso foi decidido para garantir uma experiência de usuário limpa e livre de distrações. Acreditamos que uma interface simples é mais intuitiva e fácil de usar, especialmente para uma ferramenta tão fundamental de medidor de Intensidade de chuva.
+![Tela de Login](tela_login.png)
 
 ## Implementações
 
